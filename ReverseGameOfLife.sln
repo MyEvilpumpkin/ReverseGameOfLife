@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ReverseGameOfLife", "ReverseGameOfLife\ReverseGameOfLife.vcxproj", "{AF0EB03B-7348-4C0C-9D3C-D61774DA7AFD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ReverseGameOfLifeGUI", "ReverseGameOfLifeGUI\ReverseGameOfLifeGUI.vcxproj", "{8B3B2E4A-14E1-4439-A3D0-9391A65BBF42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF0EB03B-7348-4C0C-9D3C-D61774DA7AFD}.Debug|x64.ActiveCfg = Debug|x64
+		{AF0EB03B-7348-4C0C-9D3C-D61774DA7AFD}.Debug|x64.Build.0 = Debug|x64
+		{AF0EB03B-7348-4C0C-9D3C-D61774DA7AFD}.Debug|x86.ActiveCfg = Debug|Win32
+		{AF0EB03B-7348-4C0C-9D3C-D61774DA7AFD}.Debug|x86.Build.0 = Debug|Win32
+		{AF0EB03B-7348-4C0C-9D3C-D61774DA7AFD}.Release|x64.ActiveCfg = Release|x64
+		{AF0EB03B-7348-4C0C-9D3C-D61774DA7AFD}.Release|x64.Build.0 = Release|x64
+		{AF0EB03B-7348-4C0C-9D3C-D61774DA7AFD}.Release|x86.ActiveCfg = Release|Win32
+		{AF0EB03B-7348-4C0C-9D3C-D61774DA7AFD}.Release|x86.Build.0 = Release|Win32
+		{8B3B2E4A-14E1-4439-A3D0-9391A65BBF42}.Debug|x64.ActiveCfg = Debug|x64
+		{8B3B2E4A-14E1-4439-A3D0-9391A65BBF42}.Debug|x64.Build.0 = Debug|x64
+		{8B3B2E4A-14E1-4439-A3D0-9391A65BBF42}.Debug|x86.ActiveCfg = Debug|Win32
+		{8B3B2E4A-14E1-4439-A3D0-9391A65BBF42}.Debug|x86.Build.0 = Debug|Win32
+		{8B3B2E4A-14E1-4439-A3D0-9391A65BBF42}.Release|x64.ActiveCfg = Release|x64
+		{8B3B2E4A-14E1-4439-A3D0-9391A65BBF42}.Release|x64.Build.0 = Release|x64
+		{8B3B2E4A-14E1-4439-A3D0-9391A65BBF42}.Release|x86.ActiveCfg = Release|Win32
+		{8B3B2E4A-14E1-4439-A3D0-9391A65BBF42}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECB3F705-BF3F-4D1B-8754-533234224157}
+	EndGlobalSection
+EndGlobal
